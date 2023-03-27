@@ -264,6 +264,9 @@ ul.social{
     vertical-align: middle;
     padding-right: 10px;
   }
+  ul.social li img{
+    vertical-align: bottom!important;
+  }
 
 
 @media (min-width: 992px) {
